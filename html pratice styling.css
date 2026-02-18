@@ -1,0 +1,14 @@
+p{
+	background-color: aqua;
+	display: flex;
+	justify-content: center;
+}
+.you{
+	display: flex;
+	justify-content: center;
+}
+
+h2{
+	background-color: black;
+	color: beige;
+}
